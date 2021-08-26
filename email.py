@@ -5,4 +5,4 @@ format_ = (f"Your user name is '{username}' and your domain is '{domain_name}'")
 print(format_)
 
 
-#email
+
