@@ -6,8 +6,6 @@ print(format_)
 
 
 
- #ajay
-
 
 
 
